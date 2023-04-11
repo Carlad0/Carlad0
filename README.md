@@ -1,5 +1,30 @@
 ### Hi there 👋
 
+💫 About Me:
+I'm an accountable, responsible and enthusiastic industrial engineer with more than 12 years leading teams in manufacturing industries with international standars of quality and processes. I've decided now to make a shift in my career towards thechnology by training myself as a full stack web developer. I'm confident that with my background plus my curiosity on learning new skills and tools I will grow thechnically and professionally becoming a IT leader in the years to come..
+
+
+💻 Tech Stack:
+JavaScript 
+Vercel 
+React 
+Redux 
+React Router 
+NodeJS 
+Express.js 
+NPM 
+Styled Components 
+Bootstrap 
+Postgres 
+Trello 
+Postman 
+MySQL
+GitHub
+
+ Connect with me
+ martinezcarlosar@gmail.com
+
+
 <!--
 **Carlad0/Carlad0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
